@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitwithsuraj" alt="gitwithsuraj" /></a> </p>
 
-- 🔭 I’m currently working on **Many project but my**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/suraj-singh-979bb3329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/suraj-singh-979bb3329/" height="30" width="40" /></a>
