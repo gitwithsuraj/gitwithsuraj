@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Singh</h1>
+<h1 align="center">, I'm Suraj Singh</h1>
 <h3 align="center">A Computer Science Student curently Majoring DevSecOps</h3>
 
 <h3 align="left">Languages and Tools:</h3>
